@@ -20,7 +20,7 @@
     "electron-packager": "^15.0.0"
   },
   "dependencies": {
-    "gsap": "^3.10.3",
+    "gsap": "^3.12.2",
     "ionicons": "^5.0.1"
   }
 }
