@@ -16,8 +16,8 @@
   "author": "Rogerio Romao",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^9.0.0",
-    "electron-packager": "^15.0.0"
+    "electron": "^27.0.0",
+    "electron-packager": "^17.1.2"
   },
   "dependencies": {
     "gsap": "^3.10.3",
