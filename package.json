@@ -16,7 +16,7 @@
   "author": "Rogerio Romao",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^9.0.0",
+    "electron": "^22.3.25",
     "electron-packager": "^15.0.0"
   },
   "dependencies": {
